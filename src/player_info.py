@@ -1,0 +1,17 @@
+PLAYER_INFO = {
+    "virat_kohli": {"role": "Batsman", "style": "Right-hand bat", "nickname": "King Kohli"},
+    "ms_dhoni": {"role": "Wicketkeeper-Batsman", "style": "Right-hand bat", "nickname": "Captain Cool"},
+    "rohit_sharma": {"role": "Batsman", "style": "Right-hand bat", "nickname": "Hitman"},
+    "hardik_pandya": {"role": "All-rounder", "style": "Right-hand bat", "nickname": "Hardik"},
+    "jasprit_bumrah": {"role": "Bowler", "style": "Right-arm fast", "nickname": "Boom Boom"},
+    "mohammed_shami": {"role": "Bowler", "style": "Right-arm fast", "nickname": "Shami"},
+    "kedar_jadhav": {"role": "Batsman", "style": "Right-hand bat", "nickname": "Kedar"},
+    "ravindra_jadeja": {"role": "All-rounder", "style": "Left-hand bat", "nickname": "Sir Jadeja"},
+    "shikhar_dhawan": {"role": "Batsman", "style": "Left-hand bat", "nickname": "Gabbar"},
+    "kuldeep_yadav": {"role": "Bowler", "style": "Left-arm chinaman", "nickname": "Kuldeep"},
+    "k._l._rahul": {"role": "Batsman", "style": "Right-hand bat", "nickname": "KL Rahul"},
+    "vijay_shankar": {"role": "All-rounder", "style": "Right-hand bat", "nickname": "Vijay"},
+    "yuzvendra_chahal": {"role": "Bowler", "style": "Right-arm leg spin", "nickname": "Chahal"},
+    "dinesh_karthik": {"role": "Wicketkeeper-Batsman", "style": "Right-hand bat", "nickname": "DK"},
+    "bhuvneshwar_kumar": {"role": "Bowler", "style": "Right-arm medium", "nickname": "Bhuvi"},
+}
